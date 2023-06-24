@@ -12,6 +12,7 @@
     "@expo/webpack-config": "^0.17.0",
     "expo": "^46.0.21",
     "expo-status-bar": "~1.4.4",
+<<<<<<< HEAD
     "react": "18.0.0",
     "react-dom": "18.0.0",
     "react-native": "0.69.9",
@@ -19,6 +20,16 @@
     "react-native-maps": "0.31.1",
     "react-native-svg": "12.3.0",
     "react-native-web": "~0.18.7"
+=======
+    "react": "18.2.0",
+    "react-native": "0.71.8",
+    "react-native-ico-material-design": "^3.3.1",
+    "react-native-svg": "^13.4.0",
+    "react-native-vector-icons": "^9.2.0",
+    "react-native-web": "~0.18.10",
+    "react-dom": "18.2.0",
+    "@expo/webpack-config": "^18.0.1"
+>>>>>>> fc699b372c8c04c7415c14f3dc00eebeb58388a2
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"
